@@ -1,0 +1,13 @@
+<app-loader></app-loader>
+<div class="my-container">
+    <header>
+        <app-header></app-header>
+    </header>
+    <main>
+        <router-outlet></router-outlet>
+        <app-newsletter *ngIf="!authService.isLoggedIn"></app-newsletter>
+    </main>
+    <footer class="w3-animate-bottom">
+        <app-footer (languageEmitter)="onLanguageChoose($event)"></app-footer>
+    </footer>
+</div>

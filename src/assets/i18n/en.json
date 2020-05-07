@@ -1,0 +1,96 @@
+{
+    "title": "Kisaan Sewa",
+    "common": {
+        "cancel": "Cancel",
+        "submit": "Submit"
+    },
+    "navigation": {
+        "home": "Home",
+        "aboutUs": "About Us",
+        "services": "Services",
+        "team": "Team",
+        "login": "Login",
+        "register": "Register",
+        "dashboard": "Dashboard",
+        "logout": "Logout"
+    },
+    "home": {
+        "ourVision": "Our Vision",
+        "getStarted": "Get Started"
+    },
+    "about": {
+        "about": "About",
+        "us": "Us",
+        "annapurnas": "All there for our Annapurnas",
+        "paraFirst": "'Agriculture is the backbone of the Indian Economy'- said Mahatma Gandhi six decades ago. Even today, the situation is still the same, with almost the entire economy being sustained by agriculture, which is the mainstay of the villages. It contributes 16% of the overall GDP and accounts for employment of approximately 52% of the Indian population. Rapid growth in agriculture is essential not only for self-reliance. Indian farmers are second to none in production and productivity despite of the fact that millions are marginal and small farmers. They adopt improved agriculture technology as efficiently as farmers in developed countries. It is felt that with provision of timely and adequate inputs such as fertilizers, seeds, pesticides and by making available affordable agricultural credit /crop insurance, Indian farmers are going to ensure food and nutritional security to the Nation.",
+        "paraSecond": "Indian farmers face lot of problems when it comes to buying seeds and fertilizer from authorized channel at right price. Same applies to selling farm produce at right price so that farming becomes profitable occupation. Need of an hour is to build e-portal for farms wherein they can buy seeds and fertilizers at the optimal price. This portal should also allow consumers to bid/ask for the farm produce thus eradicating middle man and benefiting both farmers and consumers."
+    },
+    "services": {
+        "whyHere": "Why Here?",
+        "servicesAvail": "These are the services you can avail on this platform",
+        "pocketFriendly": "Pocket Friendly",
+        "rentEquipments": "Rent all the equipments you need at cheap and affordable rates",
+        "tipsAndTricks": "Tips and Tricks",
+        "getImportantInfo": "Get important information about farming from some farming experts",
+        "trackStatus": "Track Status",
+        "trackItem": "Track the status of whatever item you have purchased",
+        "forecasts": "Forecasts",
+        "futureReady": "Be future ready and plan ahead with our daily and seasonal weather forecasts",
+        "fertAndPests": "Fertilizers and Pesticides",
+        "purchasePests": "Purchase fertilizers and pesticides at a rate like never before",
+        "cashless": "Cashless Purchases",
+        "goCashless": "Now go cashless and make payments on the go by just a few finger taps"
+    },
+    "team": {
+        "hi": "Hi There !",
+        "ourProfessionals": "Our professionals",
+        "introDev": "I love to introduce myself as a hardcore developer.",
+        "introDesigner": "I love to introduce myself as a hardcore designer.",
+        "introWeb": "I love to introduce myself as a hardcore Web Designer.",
+        "utkarsh": "Utkarsh Srivastava",
+        "utkarshRole": "Full Stack Developer",
+        "rohan": "Rohan Dwivedi",
+        "rohanRole": "Does the real work",
+        "shivam": "Shivam Rajput",
+        "shivamRole": "Useless person",
+        "abhishek": "Abhishek Singh",
+        "abhishekRole": "Not even a person.",
+        "slogan": "Talent wins games, Teamwork wins Championships! Teamwork divided the task and multiplies the success. Alone we can do so little; together we can do so much. The way a team plays as a whole determines its success."
+    },
+    "login": {
+        "login": "Login",
+        "loginBooth": "Login as Booth",
+        "loginFarmer": "Login as Farmer",
+        "loginSeller": "Login as Seller",
+        "enterUserOrEmail": "Enter your username or registered email ID",
+        "enterPassword": "Enter your Password",
+        "validUserOrEmail": "Please enter a valid username or email ID",
+        "validPassword": "Please enter a valid password"
+    },
+    "register": {
+        "register": "Register",
+        "booth": "Booth",
+        "farmer": "Farmer",
+        "seller": "Seller",
+        "registerBooth": "Register as Booth",
+        "registerFarmer": "Register as Farmer",
+        "registerSeller": "Register as Seller",
+        "enterName": "Enter your name",
+        "enterBooth": "Enter your booth name",
+        "enterMobile": "Enter your mobile number",
+        "enterEmail": "Enter your email ID",
+        "enterBoothAddress": "Enter your booth address",
+        "enterAddress": "Enter your address",
+        "nameReq": "Name is required",
+        "boothNameReq": "Booth name is required",
+        "validMobile": "Please enter a valid mobile number",
+        "validEmail": "Please enter a valid email ID",
+        "boothAddReq": "Booth address is required",
+        "addressReq": "Address is required"
+    },
+    "newsletter": {
+        "signUp": "Sign up for your Modern Farmer Weekly Newsletter",
+        "enterEmail": "Enter your email",
+        "subscribe": "Subscribe"
+    }
+}

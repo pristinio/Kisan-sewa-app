@@ -1,0 +1,16 @@
+<div class="mat-dialog-style">
+    <div class="error-modal-icon">
+        <img src="assets/images/success.png" alt="Success">
+    </div>
+    <div class="content-style" mat-dialog-content>
+        <div class="error-content">
+            <p>{{ message }}</p>
+            <hr *ngIf="detail">
+            <p *ngIf="detail">{{ detail }}</p>
+        </div>
+    </div>
+    <mat-dialog-actions align="center" class="text-center">
+        <button mat-button (click)="onClose()"
+            class="btn btn-primary">Close</button>
+    </mat-dialog-actions>
+</div>
